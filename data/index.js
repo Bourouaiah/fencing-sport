@@ -205,11 +205,6 @@ export const news = [
 
 export const team = [
   {
-    id: 1, 
-    image: teamOne,
-    name: "Yasser Fetouhi"
-  },
-  {
     id: 2, 
     image: teamTwo,
     name: "Hani Bouhraoua"
